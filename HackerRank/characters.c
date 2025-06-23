@@ -7,8 +7,8 @@ Task: You have to print the character 'ch' in the first line. Then print 's' in 
 #include <math.h>
 #include <stdlib.h>
 
-int main() 
-{
+int main() {
+    
     char ch;
     char s[100];
     char sen[100];

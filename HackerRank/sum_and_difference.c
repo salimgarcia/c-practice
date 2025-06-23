@@ -15,8 +15,8 @@ Use the and operator to perform the following operations:
 #include <math.h>
 #include <stdlib.h>
 
-int main()
-{
+int main() {
+    
     int a, b, sum1, dif1;
     float c, d, sum2, dif2;
     
